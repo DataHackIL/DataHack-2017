@@ -2,7 +2,7 @@
 
 
 
-# DataHack has ended!
+# DataHack 2017 has ended!
 
 **Thanks to all the participants! Final scoreboard and solutions can be found under the `solutions` folder.**
 
