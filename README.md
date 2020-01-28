@@ -4,7 +4,7 @@
 
 # DataHack has ended!
 
-**Thanks to all the participants! Final scoreboard and solutions can be found under the documentation folder.**
+**Thanks to all the participants! Final scoreboard and solutions can be found under the `solutions` folder.**
 
 **If you wish to upload a solution, please use "pull request" or send it to RocketDataScientist@gmail.com**
 
@@ -23,7 +23,7 @@
 **Option (2) Come to the Rafael booth with your laptop between 18:00-19:30**
 
 
-![It takes a rocket data scientist!](https://github.com/RocketDataScientist/DataHack-2017/blob/master/logo.jpg "It takes a rocket data scientist!")
+![It takes a rocket data scientist!](https://github.com/DataHackIL/RocketDataScientist/blob/master/logo.jpg "It takes a rocket data scientist!")
 
 <div dir="rtl">
 
